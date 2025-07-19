@@ -1,12 +1,24 @@
-# React + Vite
+# Custom UI Components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project with reusable UI-components on React using Tailwind CSS. Components inspired by Ant Design.
 
-Currently, two official plugins are available:
+## Components:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Button:
+- Form:
+- Dropdown:
+- Modal:
+- Collapse
+- Drawer:
+- Notification:
+- Empty:
+- Tabs:
+- Spinner
 
-## Expanding the ESLint configuration
+## How to launch the project:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Set the dependencies.
+
+```bash
+npm install:
+
